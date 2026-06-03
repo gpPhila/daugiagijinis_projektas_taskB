@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\uni_projects\\multithreated\\Projektas_TaskB_KP_PI24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBA790E-E4EC-648A-D32A-A6644EBD4CFE}|Projektas_TaskB_KP_PI24\\Projektas_TaskB_KP_PI24.csproj|d:\\uni_projects\\multithreated\\projektas_taskb_kp_pi24\\projektas_taskb_kp_pi24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBA790E-E4EC-648A-D32A-A6644EBD4CFE}|Projektas_TaskB_KP_PI24\\Projektas_TaskB_KP_PI24.csproj|solutionrelative:projektas_taskb_kp_pi24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBA790E-E4EC-648A-D32A-A6644EBD4CFE}|Projektas_TaskB_KP_PI24\\Projektas_TaskB_KP_PI24.csproj|d:\\uni_projects\\multithreated\\projektas_taskb_kp_pi24\\projektas_taskb_kp_pi24\\files\\file2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9DBA790E-E4EC-648A-D32A-A6644EBD4CFE}|Projektas_TaskB_KP_PI24\\Projektas_TaskB_KP_PI24.csproj|solutionrelative:projektas_taskb_kp_pi24\\files\\file2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBA790E-E4EC-648A-D32A-A6644EBD4CFE}|Projektas_TaskB_KP_PI24\\Projektas_TaskB_KP_PI24.csproj|d:\\uni_projects\\multithreated\\projektas_taskb_kp_pi24\\projektas_taskb_kp_pi24\\files\\results.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9DBA790E-E4EC-648A-D32A-A6644EBD4CFE}|Projektas_TaskB_KP_PI24\\Projektas_TaskB_KP_PI24.csproj|solutionrelative:projektas_taskb_kp_pi24\\files\\results.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\uni_projects\\multithreated\\Projektas_TaskB_KP_PI24\\Projektas_TaskB_KP_PI24\\Program.cs",
+              "RelativeDocumentMoniker": "Projektas_TaskB_KP_PI24\\Program.cs",
+              "ToolTip": "D:\\uni_projects\\multithreated\\Projektas_TaskB_KP_PI24\\Projektas_TaskB_KP_PI24\\Program.cs",
+              "RelativeToolTip": "Projektas_TaskB_KP_PI24\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwFoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T01:19:01.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "File2.txt",
+              "DocumentMoniker": "D:\\uni_projects\\multithreated\\Projektas_TaskB_KP_PI24\\Projektas_TaskB_KP_PI24\\Files\\File2.txt",
+              "RelativeDocumentMoniker": "Projektas_TaskB_KP_PI24\\Files\\File2.txt",
+              "ToolTip": "D:\\uni_projects\\multithreated\\Projektas_TaskB_KP_PI24\\Projektas_TaskB_KP_PI24\\Files\\File2.txt",
+              "RelativeToolTip": "Projektas_TaskB_KP_PI24\\Files\\File2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-01T01:40:15.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Results.txt",
+              "DocumentMoniker": "D:\\uni_projects\\multithreated\\Projektas_TaskB_KP_PI24\\Projektas_TaskB_KP_PI24\\Files\\Results.txt",
+              "RelativeDocumentMoniker": "Projektas_TaskB_KP_PI24\\Files\\Results.txt",
+              "ToolTip": "D:\\uni_projects\\multithreated\\Projektas_TaskB_KP_PI24\\Projektas_TaskB_KP_PI24\\Files\\Results.txt",
+              "RelativeToolTip": "Projektas_TaskB_KP_PI24\\Files\\Results.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-06-01T14:13:56.742Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

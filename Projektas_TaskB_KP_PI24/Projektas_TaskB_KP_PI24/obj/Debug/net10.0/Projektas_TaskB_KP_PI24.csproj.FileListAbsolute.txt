@@ -1,0 +1,69 @@
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Projektas_TaskB_KP_PI24.exe
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Projektas_TaskB_KP_PI24.deps.json
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Projektas_TaskB_KP_PI24.runtimeconfig.json
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Projektas_TaskB_KP_PI24.dll
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Projektas_TaskB_KP_PI24.pdb
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\obj\Debug\net10.0\Projektas_TaskB_KP_PI24.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\obj\Debug\net10.0\Projektas_TaskB_KP_PI24.AssemblyInfoInputs.cache
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\obj\Debug\net10.0\Projektas_TaskB_KP_PI24.AssemblyInfo.cs
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\obj\Debug\net10.0\Projektas_TaskB_KP_PI24.csproj.CoreCompileInputs.cache
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\obj\Debug\net10.0\Projektas_TaskB_KP_PI24.dll
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\obj\Debug\net10.0\refint\Projektas_TaskB_KP_PI24.dll
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\obj\Debug\net10.0\Projektas_TaskB_KP_PI24.pdb
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\obj\Debug\net10.0\Projektas_TaskB_KP_PI24.genruntimeconfig.cache
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\obj\Debug\net10.0\ref\Projektas_TaskB_KP_PI24.dll
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File1.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File2.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File3.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File4.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\Results.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File5.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File6.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File7.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File8.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File9.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File1 - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File1 - Copy (3).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File1 - Copy - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File1 - Copy - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File1 - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File2 - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File2 - Copy (3).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File2 - Copy - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File2 - Copy - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File2 - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File3 - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File3 - Copy (3).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File3 - Copy - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File3 - Copy - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File3 - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File4 - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File4 - Copy (3).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File4 - Copy - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File4 - Copy - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File4 - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File5 - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File5 - Copy (3).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File5 - Copy - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File5 - Copy - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File5 - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File6 - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File6 - Copy (3).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File6 - Copy - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File6 - Copy - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File6 - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File7 - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File7 - Copy (3).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File7 - Copy - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File7 - Copy - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File7 - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File8 - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File8 - Copy (3).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File8 - Copy - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File8 - Copy - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File8 - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File9 - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File9 - Copy (3).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File9 - Copy - Copy (2).txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File9 - Copy - Copy.txt
+D:\uni_projects\multithreated\Projektas_TaskB_KP_PI24\Projektas_TaskB_KP_PI24\bin\Debug\net10.0\Files\File9 - Copy.txt

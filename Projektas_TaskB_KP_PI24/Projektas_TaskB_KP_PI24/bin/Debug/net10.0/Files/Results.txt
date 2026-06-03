@@ -1,0 +1,13 @@
+Search value: vision
+Matching files:
+File9.txt
+File7.txt
+File8.txt
+File5.txt
+File4.txt
+File3.txt
+File1.txt
+File6.txt
+File2.txt
+Total files matching: 9
+Average file processing time: 14.33 ms

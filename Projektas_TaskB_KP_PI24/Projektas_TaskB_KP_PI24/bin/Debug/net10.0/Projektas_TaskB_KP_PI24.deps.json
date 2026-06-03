@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Projektas_TaskB_KP_PI24/1.0.0": {
+        "runtime": {
+          "Projektas_TaskB_KP_PI24.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projektas_TaskB_KP_PI24/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

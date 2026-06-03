@@ -1,0 +1,58 @@
+Search value: vision
+Matching files:
+File7 - Copy - Copy (2).txt
+File4 - Copy - Copy.txt
+File9 - Copy (2).txt
+File6 - Copy - Copy.txt
+File3 - Copy - Copy.txt
+File7.txt
+File6 - Copy (3).txt
+File3.txt
+File7 - Copy.txt
+File6 - Copy (2).txt
+File3 - Copy (3).txt
+File8 - Copy.txt
+File5.txt
+File2 - Copy.txt
+File9 - Copy.txt
+File5 - Copy.txt
+File3 - Copy (2).txt
+File8.txt
+File5 - Copy - Copy (2).txt
+File2 - Copy - Copy.txt
+File8 - Copy - Copy (2).txt
+File5 - Copy (3).txt
+File2 - Copy (3).txt
+File9 - Copy - Copy.txt
+File8 - Copy (2).txt
+File5 - Copy (2).txt
+File2 - Copy (2).txt
+File8 - Copy (3).txt
+File4 - Copy - Copy (2).txt
+File2.txt
+File7 - Copy (2).txt
+File4.txt
+File2 - Copy - Copy (2).txt
+File1.txt
+File7 - Copy (3).txt
+File4 - Copy.txt
+File1 - Copy.txt
+File9.txt
+File8 - Copy - Copy.txt
+File6.txt
+File4 - Copy (3).txt
+File1 - Copy - Copy.txt
+File9 - Copy - Copy (2).txt
+File6 - Copy - Copy (2).txt
+File3 - Copy.txt
+File1 - Copy - Copy (2).txt
+File7 - Copy - Copy.txt
+File5 - Copy - Copy.txt
+File3 - Copy - Copy (2).txt
+File1 - Copy (2).txt
+File9 - Copy (3).txt
+File6 - Copy.txt
+File4 - Copy (2).txt
+File1 - Copy (3).txt
+Total files matching: 54
+Average file processing time: 49.51 ms
